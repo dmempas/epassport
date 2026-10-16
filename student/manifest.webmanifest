@@ -1,0 +1,10 @@
+{
+    "name": "E-PASSPORT Student",
+    "short_name": "E-PASSPORT",
+    "description": "USTP Panaon E-Passport student attendance and location monitoring",
+    "start_url": "./dashboard.php",
+    "display": "standalone",
+    "background_color": "#1f2f88",
+    "theme_color": "#1f2f88",
+    "orientation": "portrait"
+}
